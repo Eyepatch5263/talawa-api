@@ -226,7 +226,6 @@ check_git_repo() {
 validate_repository
 validate_disk_space
 check_git_repo
-
 success "Repository validation passed: talawa-api"
 
 # Detect Linux distribution
