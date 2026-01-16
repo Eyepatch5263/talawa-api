@@ -546,4 +546,3 @@ echo ""
 info "To complete setup, run:"
 echo "  pnpm run setup"
 echo ""
-
